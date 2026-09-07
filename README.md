@@ -1,5 +1,10 @@
-# 🎲 Dice Roller is a Flutter app that simulates rolling a dice with each roll generating a random number. It demonstrates Flutter state management, dynamic UI updates, user interaction, and basic random number generation in a simple and interactive interface.
+# 🎲 Dice Roller
+
+# Dice Roller is a Flutter app that simulates rolling a dice with each roll generating a random number. It demonstrates Flutter state management, dynamic UI updates, user interaction, and 
+basic random number generation in a simple and interactive interface.
+
 # ScreenShots
+
 ![Screenshot_1725432015](https://github.com/user-attachments/assets/f074ed49-460c-4b4f-9723-cbd542919fed)
 ![Screenshot_1725432012](https://github.com/user-attachments/assets/3d7e7eed-84ae-4260-b3f4-2b8a765837f8)
 ![Screenshot_1725432009](https://github.com/user-attachments/assets/1230ad80-cd42-41d2-ac6e-360ea21ad14e)
